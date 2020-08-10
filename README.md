@@ -12,9 +12,9 @@ I'm a Software Engineering/MCA Student at [Saurashtra University](http://www.sau
 - 👯 Looking for an internship or opportunity.
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdhorajiya)
 ### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=aboelkassem&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=gkdhorajiya&show_icons=true)
 
 <!--
 **gkdhorajiya/gkdhorajiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
