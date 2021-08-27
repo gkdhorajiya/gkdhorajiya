@@ -23,7 +23,7 @@ I'm [Gaurav Kumar Dhorajiya](https://gkdhorajiya.github.io) .Pursuing MCA from [
 [8]: https://t.me/gkdhorajiya
 
 
-- ⚡️ Technologies I work with: PHP, JavaScript, CSS, HTML, Bootstrap, Codigniter, Laravel and  more....
+- ⚡️ Technologies I work with: PHP, JavaScript, CSS, HTML, Bootstrap, Codigniter and  more....
 - 👨‍💻 All of my projects are available  [here](https://github.com/gkdhorajiya?tab=repositories)
 
 ### My GitHub Top Languages 
