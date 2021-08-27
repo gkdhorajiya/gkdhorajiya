@@ -33,7 +33,7 @@ I'm [Gaurav Kumar Dhorajiya](https://gkdhorajiya.github.io) .Pursuing MCA from [
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Find Karigar
-- 🌱 I’m currently learning Flutter App Development
+- 🔭 I’m currently working on CRM Web App
+- 🌱 I’m currently learning Laravel Framework
 - 💬 Ask me about Anything
 
