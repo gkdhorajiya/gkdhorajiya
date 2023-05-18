@@ -23,8 +23,8 @@ I'm [Gaurav Kumar Dhorajiya](https://gkdhorajiya.github.io) .Completed MCA from 
 [8]: https://t.me/gkdhorajiya
 
 
-- ⚡️ Technologies I work with: PHP, JavaScript, CSS, HTML, Bootstrap, Codigniter and  more....
-- 👨‍💻 All of my projects are available  [here](https://github.com/gkdhorajiya?tab=repositories)
+- ⚡️ Technologies I am working with Codeigniter, Laravel, Cake PHP, Zoho CRM, CSS, JS, and many related library and frameworks
+- 👨‍💻 All of my opensource projects are available  [here](https://github.com/gkdhorajiya?tab=repositories)
 
 ### My GitHub Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdhorajiya)
