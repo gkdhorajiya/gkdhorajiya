@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/gkdhorajiya" target="blank"><img src="https://img.shields.io/twitter/follow/gkdhorajiya?logo=twitter&style=for-the-badge" alt="gkdhorajiya" /></a> </p>
 
-- 🔭 I’m currently working on **Milk Dairy Management**
+- 🔭 I’m currently working on **CONSTRUCTION PROJECT MANAGEMENT**
 
-- 🌱 I’m currently learning **python,django**
+- 🌱 I’m currently learning **Python, Django, FLASK**
 
-- 👯 I’m looking to collaborate on **Social Media Admin pannel**
+- 👯 I’m looking to collaborate on **CONSTRUCTION PROJECT MANAGEMENT**
 
 - 🤝 I’m looking for help with **Auto Code Generating with AI with required structure**
 
